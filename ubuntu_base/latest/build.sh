@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # 选择搭建 keepalive 工作节点或备用节点
 cp ../../keepalived-master.conf tmp/keepalived.conf
 # 拷贝 entrypoint 启动文件
